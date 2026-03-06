@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "朝陽",
+  "base_artist": "aimyon",
+  "createdAt": "2026-03-06T10:55:31.414467Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "朝陽",
+      "artist": "Aimyon",
+      "has_synced": true,
+      "path": "select/01_朝陽_Aimyon.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "朝陽 - Morning Sun",
+      "artist": "aimyon",
+      "has_synced": true,
+      "path": "select/02_朝陽_-_Morning_Sun_aimyon.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "朝陽",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_01_朝陽_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "朝陽",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_02_朝陽_あいみょん.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "朝陽",
+      "artist": "あいみょん",
+      "has_synced": false,
+      "path": "select/pl_03_朝陽_あいみょん.txt"
+    }
+  ]
+}
